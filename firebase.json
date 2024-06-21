@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "build/nuscholars-chat",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
